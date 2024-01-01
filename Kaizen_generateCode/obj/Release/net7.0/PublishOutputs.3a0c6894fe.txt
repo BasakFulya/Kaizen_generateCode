@@ -1,0 +1,5 @@
+C:\Users\BFK\source\repos\Kaizen_generateCode\Kaizen_generateCode\bin\Release\net7.0\publish\Kaizen_generateCode.exe
+C:\Users\BFK\source\repos\Kaizen_generateCode\Kaizen_generateCode\bin\Release\net7.0\publish\Kaizen_generateCode.dll
+C:\Users\BFK\source\repos\Kaizen_generateCode\Kaizen_generateCode\bin\Release\net7.0\publish\Kaizen_generateCode.deps.json
+C:\Users\BFK\source\repos\Kaizen_generateCode\Kaizen_generateCode\bin\Release\net7.0\publish\Kaizen_generateCode.runtimeconfig.json
+C:\Users\BFK\source\repos\Kaizen_generateCode\Kaizen_generateCode\bin\Release\net7.0\publish\Kaizen_generateCode.pdb

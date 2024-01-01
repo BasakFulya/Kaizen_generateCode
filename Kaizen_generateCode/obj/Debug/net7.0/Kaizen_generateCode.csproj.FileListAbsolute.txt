@@ -1,0 +1,15 @@
+C:\Users\BFK\source\repos\Kaizen_generateCode\Kaizen_generateCode\bin\Debug\net7.0\Kaizen_generateCode.exe
+C:\Users\BFK\source\repos\Kaizen_generateCode\Kaizen_generateCode\bin\Debug\net7.0\Kaizen_generateCode.deps.json
+C:\Users\BFK\source\repos\Kaizen_generateCode\Kaizen_generateCode\bin\Debug\net7.0\Kaizen_generateCode.runtimeconfig.json
+C:\Users\BFK\source\repos\Kaizen_generateCode\Kaizen_generateCode\bin\Debug\net7.0\Kaizen_generateCode.dll
+C:\Users\BFK\source\repos\Kaizen_generateCode\Kaizen_generateCode\bin\Debug\net7.0\Kaizen_generateCode.pdb
+C:\Users\BFK\source\repos\Kaizen_generateCode\Kaizen_generateCode\obj\Debug\net7.0\Kaizen_generateCode.csproj.AssemblyReference.cache
+C:\Users\BFK\source\repos\Kaizen_generateCode\Kaizen_generateCode\obj\Debug\net7.0\Kaizen_generateCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BFK\source\repos\Kaizen_generateCode\Kaizen_generateCode\obj\Debug\net7.0\Kaizen_generateCode.AssemblyInfoInputs.cache
+C:\Users\BFK\source\repos\Kaizen_generateCode\Kaizen_generateCode\obj\Debug\net7.0\Kaizen_generateCode.AssemblyInfo.cs
+C:\Users\BFK\source\repos\Kaizen_generateCode\Kaizen_generateCode\obj\Debug\net7.0\Kaizen_generateCode.csproj.CoreCompileInputs.cache
+C:\Users\BFK\source\repos\Kaizen_generateCode\Kaizen_generateCode\obj\Debug\net7.0\Kaizen_generateCode.dll
+C:\Users\BFK\source\repos\Kaizen_generateCode\Kaizen_generateCode\obj\Debug\net7.0\refint\Kaizen_generateCode.dll
+C:\Users\BFK\source\repos\Kaizen_generateCode\Kaizen_generateCode\obj\Debug\net7.0\Kaizen_generateCode.pdb
+C:\Users\BFK\source\repos\Kaizen_generateCode\Kaizen_generateCode\obj\Debug\net7.0\Kaizen_generateCode.genruntimeconfig.cache
+C:\Users\BFK\source\repos\Kaizen_generateCode\Kaizen_generateCode\obj\Debug\net7.0\ref\Kaizen_generateCode.dll
